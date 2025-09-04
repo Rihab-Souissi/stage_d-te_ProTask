@@ -49,13 +49,13 @@ Elle facilite le suivi des tâches, la communication et la répartition des resp
 ## 📸 Interfaces principales
 
 ### 🔹 TaskBoard
-![TaskBoard](./assets/taskboard.png)
+![TaskBoard](./assets/changerstatus.png)
 
 ### 🔹 Dashboard
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/conulterdashboard.png)
 
 ### 🔹 Assign Ticket
-![Assign Ticket](./assets/assign_ticket.png)
+![Assign Ticket](./assets/asignticket.png)
 
 
 ## 🚀 Installation et exécution
