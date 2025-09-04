@@ -58,8 +58,6 @@ Elle facilite le suivi des tâches, la communication et la répartition des resp
 ![Assign Ticket](./assets/asignticket.png)
 
 
-## 🚀 Installation et exécution
-
 ### 1. Cloner le projet
 ```bash
 git clone https://github.com/Rihab-Souissi/stage_d-te_ProTask.git
